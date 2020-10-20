@@ -12,7 +12,7 @@ Para executar o projeto, será necessário instalar:
 
 ## Desenvolvimento
 
-Para iniciar o desenvolvimento, você poderá acessar pelo site : ????????    ou poderá clonar o projeto direto na sua máquina em um diretório de sua preferência. 
+Para iniciar o desenvolvimento, você poderá acessar pelo link (http://191.235.110.9:8000/)  ou poderá clonar o projeto direto na sua máquina em um diretório de sua preferência. 
 
 ```shell
 cd "diretorio de sua preferencia"
