@@ -1,6 +1,6 @@
 # CNJ-1
 
-https://user-images.githubusercontent.com/37173966/96637516-2a3f2180-12f5-11eb-9178-ee60045ce233.jpeg
+![SIAJUS](https://user-images.githubusercontent.com/37173966/96637516-2a3f2180-12f5-11eb-9178-ee60045ce233.jpeg)
 
 # Híbrida
 
@@ -18,7 +18,7 @@ Para executar o projeto, será necessário ter em seu computador o Python. Para 
 
 O link levará direto ao ambiente executável de *Híbrida* em que o usuário poderá navegar como advogado ou magistrado. 
 
-https://user-images.githubusercontent.com/37173966/96637172-b3098d80-12f4-11eb-83a7-a830fda685e0.png
+![tela1](https://user-images.githubusercontent.com/37173966/96637172-b3098d80-12f4-11eb-83a7-a830fda685e0.png)
 
 
 No comando advogado, é possivel incluir peças digitalizadas ou não, para que a máquina detecte se trata de um Tema repetitivo ou não. Os arquivos enviados serão lidos, os textos e palavras vetorizadas, para então fazer um levantamento otimizado do conjunto de palavras, que caracterizam como atributos necessários para a classificação de um tema repetitivo.
